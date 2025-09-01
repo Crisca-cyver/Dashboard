@@ -18,7 +18,7 @@ interface Profile01Props {
 }
 
 const defaultProfile = {
-  name: "Eugene An",
+  name: "Usuario",
   role: "Prompt Engineer",
   avatar: "https://ferf1mheo22r9ira.public.blob.vercel-storage.com/avatar-02-albo9B0tWOSLXCVZh9rX9KFxXIVWMr.png",
   subscription: "Free Trial",

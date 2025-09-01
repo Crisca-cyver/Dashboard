@@ -42,7 +42,7 @@ Un dashboard administrativo moderno y responsivo construido con Next.js 15, Reac
 
 1. **Clona el repositorio**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/Crisca-cyver/Dashboard.git
    cd dashboard
    ```
 
