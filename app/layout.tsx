@@ -6,8 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Modern Admin Dashboard",
-  description: "Un dashboard administrativo moderno y responsivo con cambio de temas",
-  generator: 'v0.app'
+  description: "Un dashboard administrativo moderno y responsivo con cambio de temas"
 }
 
 export default function RootLayout({
