@@ -198,7 +198,7 @@ npm run lint         # Ejecuta ESLint para verificar el código
 
 MIT License
 
-Copyright (c) 2024 Modern Admin Dashboard
+Copyright (c) 2025 Modern Admin Dashboard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -232,16 +232,16 @@ SOFTWARE.
 
 ## 📞 Contacto
 
-- **Autor**: Tu Nombre
-- **Email**: tu.email@ejemplo.com
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- **GitHub**: [Tu Usuario](https://github.com/tu-usuario)
+- **Autor**: Cristian Carrizo
+- **Email**: crisca@outlook.com
+- **LinkedIn**: www.linkedin.com/in/cristian-carrizo-b15801100
+- **GitHub**: git@github.com:Crisca-cyver/Dashboard.git
 
 ---
 
 **Desarrollado con ❤️ usando Next.js 15 y React 19**
 
-*Última actualización: Diciembre 2024*
+*Última actualización: Octubre 2025*
 ```
 
 Este README.md completo incluye:
